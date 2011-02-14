@@ -1,0 +1,15 @@
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.Office.dll
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VBIDE.dll
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.Office.dll
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.VBIDE.dll
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\rstraw\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
