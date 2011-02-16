@@ -1,0 +1,14 @@
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\bin\Debug\DummyInterface.exe
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\bin\Debug\DummyInterface.pdb
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\bin\Debug\DummyInterface.xml
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.MainWindow.resources
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.Resources.resources
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.vbproj.GenerateResource.Cache
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.exe
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.xml
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.pdb
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\bin\Debug\Northwind.sdf
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\bin\Debug\DummyInterface.exe.config
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\obj\Debug\DummyInterface.AboutBox1.resources
+C:\Users\rstraw\AppData\Local\Temporary Projects\DummyInterface\bin\Debug\test.accdb

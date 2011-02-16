@@ -1,0 +1,343 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DummyInterface
+</name>
+</assembly>
+<members>
+<member name="T:DummyInterface.NorthwindDataSet1.CategoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.Order_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.ShippersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.SuppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.CategoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.Order_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.ShippersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.SuppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.CategoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.Order_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.ShippersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1.SuppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.CategoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.Order_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.ShippersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.SuppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(DummyInterface.NorthwindDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(DummyInterface.NorthwindDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(DummyInterface.NorthwindDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.UpdateAll(DummyInterface.NorthwindDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DummyInterface.testDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.CategoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.Order_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.ShippersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.SuppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.CategoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.Order_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.ShippersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.SuppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.CategoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.Order_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.ShippersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet.SuppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.CategoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.Order_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.ShippersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.SuppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DummyInterface.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DummyInterface.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DummyInterface.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateAll(DummyInterface.NorthwindDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DummyInterface.NorthwindDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
